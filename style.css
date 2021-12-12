@@ -1,0 +1,13 @@
+img {
+   width: 100%;
+   height: 350px; /* Ubah nilai height sesuai kebutuhan */
+   object-fit: cover;
+}
+
+/* properti tambahan jika ingin mengatur posisi gambar */
+img {
+   width: 100%;
+   height: 350px;
+   object-fit: cover;
+   object-position: 50% 50%;
+}
